@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @Sudhanshu-Ambastha
 - 👀 I’m interested in learning new programming languages
+- 🌱 I already know html & python languages
 - 🌱 I’m currently trying to learn ...  Java
 - 🧑‍🎓 Class 12th student
