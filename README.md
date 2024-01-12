@@ -4,7 +4,7 @@ I'm a high school student with a passion for learning and coding. I'm constantly
 
 🌱 **Languages I Know**: HTML, Python
 
-🌱 **Currently trying Learn**: Java
+🌱 **Currently trying Learn**: Javascript
 
 ### About Me
 
