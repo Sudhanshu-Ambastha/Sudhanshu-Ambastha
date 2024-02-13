@@ -1,4 +1,7 @@
 # Hi there! 👋 I'm Sudhanshu Ambastha
+<a href = "https://github.com/Sudhanshu-Ambastha/Sudhanshu-Ambastha/contributors">
+  <img src = "https://contrib.rocks/image?repo=Sudhanshu-Ambastha/Sudhanshu-Ambastha"/>
+</a>
 
 I'm a high school student with a passion for learning and coding. I'm constantly exploring new programming languages and expanding my skills. 
 
