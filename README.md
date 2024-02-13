@@ -1,4 +1,6 @@
-# Hi there! 👋 I'm Sudhanshu Ambastha
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=55acee&height=120&section=header"/>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=eec900&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Sudhanshu+Ambastha;I'm+17+years+old;I'm+from+India;Be+Welcome!+:%29)](https://git.io/typing-svg)
 <a href = "https://github.com/Sudhanshu-Ambastha/Sudhanshu-Ambastha/contributors">
   <img src = "https://contrib.rocks/image?repo=Sudhanshu-Ambastha/Sudhanshu-Ambastha"/>
 </a>
@@ -30,6 +32,10 @@ I'm a high school student with a passion for learning and coding. I'm constantly
 
 ### 📊 Stats
 
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Sudhanshu-Ambastha&theme=dracula&row=2&no-bg=true&column=8&margin-w=15&margin-h=15" />
+</p>
+
 [![Sudhanshu Ambastha's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=Sudhanshu-Ambastha&&theme=radical)](https://github.com/Sudhanshu-Ambastha)
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Sudhanshu-Ambastha&show_icons=true&locale=en&layout=compact&theme=radical" alt="Sudhanshu-Ambastha" /></p>
 
@@ -48,5 +54,11 @@ I'm always working on interesting projects. Stay tuned for updates!
 I believe that coding is like solving puzzles – challenging but incredibly rewarding once you crack it!
 
 Thanks for stopping by! 🚀
+<div align="center">
+<br><p align="centre"><b>Visitors Count</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{Sudhanshu-Ambastha}/count.svg" /></p> 
+<br>
+</div>
 
 
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0077b5&height=120&section=footer"/>
