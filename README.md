@@ -30,9 +30,12 @@ I'm a high school student with a passion for learning and coding. I'm constantly
 
 ### 📊 Stats
 
-![Sudhanshu Ambastha's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sudhanshu-Ambastha&show_icons=true&theme=gruvbox)
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Sudhanshu-Ambastha&&theme=tokyonight" alt="Sudhanshu-Ambastha" /></p>
 
-<!-- ![GitHub Streak](https://streak-stats.demolab.com?user=ForrestKnight&theme=gruvbox&border_radius=4.5) -->
+[![Sudhanshu Ambastha's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=Sudhanshu-Ambastha&&theme=xcode)](https://github.com/Sudhanshu-Ambasth)
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Sudhanshu-Ambastha&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Sudhanshu-Ambastha" /></p>
+
+![Sudhanshu Ambastha's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sudhanshu-Ambastha&show_icons=true&theme=gruvbox)
 
 #
 
@@ -45,3 +48,5 @@ I'm always working on interesting projects. Stay tuned for updates!
 I believe that coding is like solving puzzles – challenging but incredibly rewarding once you crack it!
 
 Thanks for stopping by! 🚀
+
+
