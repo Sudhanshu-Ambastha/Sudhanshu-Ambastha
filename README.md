@@ -30,7 +30,7 @@ I'm a high school student with a passion for learning and coding. I'm constantly
 
 ### 📊 Stats
 
-[![Sudhanshu Ambastha's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=Sudhanshu-Ambastha&&theme=radical)](https://github.com/Sudhanshu-Ambasth)
+[![Sudhanshu Ambastha's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=Sudhanshu-Ambastha&&theme=radical)](https://github.com/Sudhanshu-Ambastha)
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Sudhanshu-Ambastha&show_icons=true&locale=en&layout=compact&theme=radical" alt="Sudhanshu-Ambastha" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Sudhanshu-Ambastha&&theme=radical" alt="Sudhanshu-Ambastha" /></p>
