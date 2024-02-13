@@ -28,6 +28,14 @@ I'm a high school student with a passion for learning and coding. I'm constantly
 - 🧠 I'm passionate about problem-solving and creative thinking.
 - 📚 I believe in the power of education and self-improvement.
 
+### 📊 Stats
+
+![Sudhanshu Ambastha's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sudhanshu-Ambastha&show_icons=true&theme=gruvbox)
+
+<!-- ![GitHub Streak](https://streak-stats.demolab.com?user=ForrestKnight&theme=gruvbox&border_radius=4.5) -->
+
+#
+
 ### My Projects
 
 I'm always working on interesting projects. Stay tuned for updates!
