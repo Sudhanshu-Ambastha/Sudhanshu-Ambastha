@@ -25,7 +25,7 @@ I'm a high school student with a passion for learning and coding. I'm constantly
 
 ### About Me
 
-- 🎓 I'm a tech savvy high school student.
+- 🎓 I'm a tech savvy, high school student.
 - 💻 I have a strong interest in programming, and I'm always excited to learn and explore new programming languages and technologies.
 - 🧠 I'm passionate about problem-solving and creative thinking.
 - 📚 I believe in the power of technological education and self-improvement.
