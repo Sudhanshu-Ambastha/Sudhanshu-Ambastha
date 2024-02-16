@@ -42,6 +42,7 @@ I'm a high school student with a passion for learning and coding. I'm constantly
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Sudhanshu-Ambastha&&theme=radical" alt="Sudhanshu-Ambastha" /></p>
 
 ![Sudhanshu Ambastha's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sudhanshu-Ambastha&show_icons=true&theme=radical)
+![Sudhanshu Ambastha's Leetcode Stats](https://leetcard.jacoblin.cool/sudhanshuambastha2020?theme=unicorn)
 
 #
 
