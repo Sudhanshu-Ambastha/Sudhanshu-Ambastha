@@ -53,9 +53,9 @@ I'm always working on interesting projects. Stay tuned for updates!
 ### Contact Me
 
 <p align="left">
-<a href="https://www.linkedin.com/in/sudhanshu-ambastha-8a0b332a4/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="adityajaiswal7" height="30" width="40" /></a>
-<a href="https://instagram.com/devopsshack" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="m_aditya_jaiswal" height="30" width="40" /></a>
-<a href="https://www.youtube.com/channel/UC1XLb_DoX2eNWGKjkh2epwA" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="m_aditya_jaiswal" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/sudhanshu-ambastha-8a0b332a4/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Sudhanshu-Ambastha" height="30" width="40" /></a>
+<a href="https://www.instagram.com/sudhanshuambastha/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Sudhanshu-Ambastha" height="30" width="40" /></a>
+
   
 </p>
 
