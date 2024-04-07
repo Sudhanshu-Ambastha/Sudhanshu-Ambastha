@@ -56,7 +56,7 @@ I'm always working on interesting projects. Stay tuned for updates!
 <a href="https://www.linkedin.com/in/sudhanshu-ambastha-8a0b332a4/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Linkedin" height="30" width="40" /></a>
 <a href="https://www.instagram.com/sudhanshuambastha/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
 <a href="https://twitter.com/Sudhanshu79093" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/twitter/twitter-original.svg" alt="Twitter" height="30" width="40" /></a>
-
+<a href="https://dev.to/https://dev.to/sudhanshuambastha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://dev.to/sudhanshuambastha" height="30" width="40" /></a>
 
 </p>
 
