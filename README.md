@@ -59,6 +59,9 @@ I'm always working on interesting projects. Stay tuned for updates!
 <a href="https://dev.to/https://dev.to/sudhanshuambastha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://dev.to/sudhanshuambastha" height="30" width="40" /></a>
 <a href="https://discordapp.com/users/1105088813736394792" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.com/sudhanshu30072006" height="30" width="40" /></a>
 
+![codeSTACKr YouTube Channel](./img/youtube-light.svg#gh-light-mode-only) 
+![codeSTACKr YouTube Channel](./img/youtube-dark.svg#gh-dark-mode-only)
+
 </p>
 
 #
