@@ -69,14 +69,17 @@ I'm always working on interesting projects. Stay tuned for updates!
 I believe that coding is like solving puzzles – challenging but incredibly rewarding once you crack it!
 
 Thanks for stopping by! 🚀
-<div align="center">
-<br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{Sudhanshu-Ambastha}/count.svg" /></p> 
-<br>
-<a href="https://info.flagcounter.com/Q0gH"><img src="https://s11.flagcounter.com/count2/Q0gH/bg_FFFFFF/txt_000000/border_CCCCCC/columns_8/maxflags_250/viewers_0/labels_1/pageviews_1/flags_0/percent_0/" alt="Flag Counter" border="0"></a>
 
-(counting from 21/04/24)  
+<div align="center">
+  <p align="centre"><b>Visitors Count</b></p>  
+  <a href="https://github.com/Sudhanshu-Ambastha"><img src="https://count.getloli.com/get/@:Rez4-4?theme=rule34" width="50%"/></a>
+  <br>
+  <p align="center"><img align="center" src="https://profile-counter.glitch.me/{Sudhanshu-Ambastha}/count.svg" /></p> 
+  <br>
+  <a href="https://info.flagcounter.com/Q0gH"><img src="https://s11.flagcounter.com/count2/Q0gH/bg_FFFFFF/txt_000000/border_CCCCCC/columns_8/maxflags_250/viewers_0/labels_1/pageviews_1/flags_0/percent_0/" alt="Flag Counter" border="0"></a>
+  <p>(counting from 21/04/24)</p>  
 </div>
+
 
 <h1 align="center">Show some 💗 by 🌟 some of the repositories!</h1>
 
