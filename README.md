@@ -54,7 +54,7 @@ I'm a high school student with a passion for learning and coding. I'm constantly
 
 ### My Projects
 
-I'm always working on interesting projects. Stay tuned for updates!
+<h4>I'm always working on interesting projects. Stay tuned for updates!</h4>
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b" width="1000">
 <br><br>
 
