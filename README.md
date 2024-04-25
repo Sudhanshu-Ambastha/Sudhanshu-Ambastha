@@ -24,11 +24,16 @@ I'm a high school student with a passion for learning and coding. I'm constantly
 #
 
 ### About Me
+<img src="https://user-images.githubusercontent.com/74038190/212750996-938b257b-266c-45a7-9af7-655341c0f58b.gif" width="200" align="right">
+<br><br>
+
 
 - 🎓 I'm a tech savvy, high school student.
 - 💻 I have a strong interest in programming, and I'm always excited to learn and explore new programming languages and technologies.
 - 🧠 I'm passionate about problem-solving and creative thinking.
 - 📚 I believe in the power of technological education and self-improvement.
+
+#
 
 ### 📊 Stats
 
@@ -50,6 +55,8 @@ I'm a high school student with a passion for learning and coding. I'm constantly
 ### My Projects
 
 I'm always working on interesting projects. Stay tuned for updates!
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b" width="1000">
+<br><br>
 
 ### Contact Me
 
