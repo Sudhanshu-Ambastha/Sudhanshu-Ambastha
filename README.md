@@ -26,7 +26,7 @@ I'm a high school student with a passion for learning and coding. I'm constantly
 
 #
 
-## <picture><img src = "https://github.com/ChinmayKaitade/ChinmayKaitade/blob/main/about_me.gif" width = 50px></picture> *About Me*
+## <picture><img src = "Hacker.gif" width = 50px></picture> *About Me*
 <img src="https://user-images.githubusercontent.com/74038190/212750996-938b257b-266c-45a7-9af7-655341c0f58b.gif" width="200" align="right">
 
 
