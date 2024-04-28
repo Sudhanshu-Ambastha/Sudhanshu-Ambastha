@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=gradient&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Sudhanshu+Ambastha;I'm+17+years+old;I'm+from+India;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=#F7F734FF&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Sudhanshu+Ambastha;I'm+17+years+old;I'm+from+India;Be+Welcome!+:%29)](https://git.io/typing-svg)
 <a href = "https://github.com/Sudhanshu-Ambastha/Sudhanshu-Ambastha/contributors">
   <img src = "https://contrib.rocks/image?repo=Sudhanshu-Ambastha/Sudhanshu-Ambastha"/>
 </a>
