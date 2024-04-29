@@ -14,6 +14,8 @@ I'm a high school student with a passion for learning and coding. I'm constantly
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,py,vscode,anaconda,git,npm,nodejs,bootstrap,github,vercel,netlify)](https://skillicons.dev)
 <img align="left" alt="Jupyter Notebook" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg" />
+
+
 <br />
 
 #
