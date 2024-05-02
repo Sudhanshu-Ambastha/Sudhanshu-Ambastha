@@ -3,9 +3,6 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffba08&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Sudhanshu+Ambastha;I'm+17+years+old;I'm+from+India;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
-<a href = "https://github.com/Sudhanshu-Ambastha/Sudhanshu-Ambastha/contributors">
-  <img src = "https://contrib.rocks/image?repo=Sudhanshu-Ambastha/Sudhanshu-Ambastha"/>
-</a>
 
 I'm a high school student with a passion for learning and coding. I'm constantly exploring new programming languages and expanding my skills. 
 
@@ -57,6 +54,9 @@ I'm a high school student with a passion for learning and coding. I'm constantly
 
 ### Contact Me
 
+<a href = "https://github.com/Sudhanshu-Ambastha/Sudhanshu-Ambastha/contributors">
+  <img src = "https://contrib.rocks/image?repo=Sudhanshu-Ambastha/Sudhanshu-Ambastha"/>
+</a>
 <p align="left">
 <a href="https://www.linkedin.com/in/sudhanshu-ambastha-8a0b332a4/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Linkedin" height="30" width="40" /></a>
 <a href="https://www.instagram.com/sudhanshuambastha/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
