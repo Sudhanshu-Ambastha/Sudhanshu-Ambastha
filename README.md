@@ -65,7 +65,7 @@ I'm a high school student with a passion for learning and coding. I'm constantly
 <a href="https://twitter.com/Sudhanshu79093" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/twitter/twitter-original.svg" alt="Twitter" height="30" width="40" /></a>
 <a href="https://dev.to/sudhanshuambastha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://dev.to/sudhanshuambastha" height="30" width="40" /></a>
 <a href="https://discordapp.com/users/1105088813736394792" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.com/sudhanshu30072006" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/@sudhanshuambast2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@sudhanshuambast2" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/profile/sudhanshuambast2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@sudhanshuambast2" height="30" width="40" /></a>
 </p>
 
 #
