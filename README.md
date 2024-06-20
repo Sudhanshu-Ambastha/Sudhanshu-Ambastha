@@ -28,7 +28,7 @@ I'm a high school student with a passion for learning and coding. I'm constantly
 
 #
 
-### 📊 Stats
+<h3 align="left"><img src="https://media4.giphy.com/media/MIGbtLZoVjbl0bYbAd/giphy.gif?cid=ecf05e472t2h0i8d7dcjaoau9iqtchhr899hxmpxzzgc7lyw&rid=giphy.gif" width="30"> Stats:</h3>
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Sudhanshu-Ambastha&theme=dracula&row=2&no-bg=true&column=8&margin-w=15&margin-h=15" />
