@@ -43,7 +43,7 @@ I'm a high school student with a passion for learning and coding. I'm constantly
 ![Sudhanshu Ambastha's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sudhanshu-Ambastha&show_icons=true&theme=radical)
 <img src="https://github-readme-stats.vercel.app/api?username=Sudhanshu-Ambastha&custom_title=Sudhanshu's%20GitHub%20statistics&show_icons=true&theme=shadow_green&rank_icon=percentile&include_all_commits=true&theme=transparent" alt="SA" />
 
-![Sudhanshu Ambastha's Leetcode Stats](https://leetcard.jacoblin.cool/sudhanshuambastha2020?theme=unicorn)
+<!--![Sudhanshu Ambastha's Leetcode Stats](https://leetcard.jacoblin.cool/sudhanshuambastha2020?theme=unicorn)-->
 [![An image of @sudhanshuambastha's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sudhanshuambastha)](https://holopin.io/@sudhanshuambastha)
 
 #
