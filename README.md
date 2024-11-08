@@ -36,12 +36,14 @@ I'm a high school student with a passion for learning and coding. I'm constantly
 </p>
 
 [![Sudhanshu's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Sudhanshu-Ambastha&bg_color=121111&color=00ffe1&line=fa00d9&point=fff700&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Sudhanshu-Ambastha&show_icons=true&langs_count=8&locale=en&layout=compact&theme=radical" alt="Sudhanshu-Ambastha" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Sudhanshu-Ambastha&&theme=radical" alt="Sudhanshu-Ambastha" /></p>
 
 ![Sudhanshu Ambastha's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sudhanshu-Ambastha&show_icons=true&theme=radical)
-<!--<img src="https://github-readme-stats.vercel.app/api?username=Sudhanshu-Ambastha&custom_title=Sudhanshu's%20GitHub%20statistics&show_icons=true&theme=shadow_green&rank_icon=percentile&include_all_commits=true&theme=transparent" alt="SA" />-->
+
+<img src="https://github-readme-stats.vercel.app/api?username=Sudhanshu-Ambastha&custom_title=Sudhanshu's%20GitHub%20statistics&show_icons=true&theme=shadow_green&rank_icon=percentile&include_all_commits=true&theme=transparent" alt="SA" />
 
 ![Sudhanshu Ambastha's Leetcode Stats](https://leetcard.jacoblin.cool/sudhanshuambastha2020?theme=unicorn)
 
