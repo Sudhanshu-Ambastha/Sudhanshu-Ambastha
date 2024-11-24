@@ -1,7 +1,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header"/>
 <picture><img src = "./github-header-image.png" width = 100%></picture>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffba08&size=35&center=true&font-family=&vCenter=true&width=1000&lines=Greetings,+World!+I'm+Sudhanshu+Ambastha;Just+18+years+young;I'm+from+India;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffba08&size=35&center=true&font-family=&vCenter=true&width=1000&lines=Greetings,+World!+I'm+Sudhanshu+Ambastha;I'm+from+India;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 
 I'm a high school student with a passion for learning and coding. I'm constantly exploring new programming languages and expanding my skills. 
