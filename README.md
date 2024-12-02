@@ -4,7 +4,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffba08&size=35&center=true&font-family=&vCenter=true&width=1000&lines=Greetings,+World!+I'm+Sudhanshu+Ambastha;I'm+from+India;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 
-I'm a high school student with a passion for learning and coding. I'm constantly exploring new programming languages and expanding my skills. 
+I'm a College school student with a passion for learning and coding. I'm constantly exploring new programming languages and expanding my skills. 
 
 
 
@@ -22,7 +22,7 @@ I'm a high school student with a passion for learning and coding. I'm constantly
 <img src="https://user-images.githubusercontent.com/74038190/212750996-938b257b-266c-45a7-9af7-655341c0f58b.gif" width="200" align="right">
 
 
-- 🎓 I'm a tech savvy, high school student.
+- 🎓 I'm a tech savvy, College student.
 - 💻 I have a strong interest in programming, and I'm always excited to learn and explore new programming languages and technologies.
 - 🧠 I'm passionate about problem-solving and creative thinking.
 - 📚 I believe in the power of technological education and self-improvement.
