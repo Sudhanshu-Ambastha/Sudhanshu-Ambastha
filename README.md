@@ -69,6 +69,7 @@ I'm a College school student with a passion for learning and coding. I'm constan
 <a href="https://dev.to/sudhanshuambastha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://dev.to/sudhanshuambastha" height="30" width="40" /></a>
 <a href="https://discordapp.com/users/1105088813736394792" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.com/sudhanshu30072006" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/profile/sudhanshuambast2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@sudhanshuambast2" height="30" width="40" /></a>
+  <a href="https://sketchfab.com/SudhanshuAmbastha" target="blank"><img align="center" src="https://static.sketchfab.com/static/builds/web/dist/static/assets/images/favicon/a81e1fd93fc053fed8a5f56640f886f8-v2.png" alt="SketchFab" height="30" width="40" /></a>
 </p>
 
 #
