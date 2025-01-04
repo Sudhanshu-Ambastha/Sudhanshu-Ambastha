@@ -49,6 +49,8 @@ I'm a College school student with a passion for learning and coding. I'm constan
 
 [![An image of @sudhanshuambastha's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sudhanshuambastha)](https://holopin.io/@sudhanshuambastha)
 
+<a href="https://app.daily.dev/sudhanshuambastha"><img src="https://api.daily.dev/devcards/v2/qiW0yNpUh00KymouBJOz7.png?r=nq1" width="356" alt="Sudhanshu Ambastha's Dev Card"/></a>
+
 #
 
 ### My Projects
