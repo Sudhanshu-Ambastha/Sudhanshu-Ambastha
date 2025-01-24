@@ -10,7 +10,7 @@ I'm a College school student with a passion for learning and coding. I'm constan
 
 ### <picture><img src = "https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width = 30px></picture> *Languages and Tools🧰*
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,py,java,react,tailwind,scss,vite,nextjs,vscode,anaconda,npm,nodejs,bootstrap,git,github,vercel,netlify)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,py,java,react,tailwind,scss,vite,nextjs,vscode,anaconda,npm,nodejs,bootstrap,git,github,vercel,netlify)](https://skillicons.dev)
 
 <img align="left" alt="Jupyter Notebook" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg" />
 
