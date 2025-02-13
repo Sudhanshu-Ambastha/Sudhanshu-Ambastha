@@ -37,8 +37,6 @@ I'm a College school student with a passion for learning and coding. I'm constan
 
 [![Sudhanshu's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Sudhanshu-Ambastha&bg_color=121111&color=00ffe1&line=fa00d9&point=fff700&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Sudhanshu-Ambastha&show_icons=true&langs_count=8&locale=en&layout=compact&theme=radical" alt="Sudhanshu-Ambastha" /></p>
-
 <table>
   <tr>
     <td align="center">
@@ -54,6 +52,11 @@ I'm a College school student with a passion for learning and coding. I'm constan
     </td>
     <td align="center">
       <img src="https://leetcard.jacoblin.cool/sudhanshuambastha2020?theme=unicorn" alt="LeetCode Stats" />
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Sudhanshu-Ambastha&show_icons=true&langs_count=8&locale=en&layout=compact&theme=radical" alt="Top Languages" />
     </td>
   </tr>
 </table>
