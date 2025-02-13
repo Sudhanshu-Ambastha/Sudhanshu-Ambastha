@@ -71,9 +71,6 @@ I'm a College school student with a passion for learning and coding. I'm constan
 
 ### Contact Me
 
-<a href = "https://github.com/Sudhanshu-Ambastha/Sudhanshu-Ambastha/contributors">
-  <img src = "https://contrib.rocks/image?repo=Sudhanshu-Ambastha/Sudhanshu-Ambastha"/>
-</a>
 <p align="left">
 <a href="https://www.linkedin.com/in/sudhanshu-ambastha-8a0b332a4/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Linkedin" height="30" width="40" /></a>
 <a href="https://www.instagram.com/sudhanshuambastha/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
