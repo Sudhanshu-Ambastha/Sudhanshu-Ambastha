@@ -40,7 +40,7 @@ I'm a College school student with a passion for learning and coding. I'm constan
 <table>
   <tr>
     <td align="center">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sudhanshu-Ambastha&&theme=radical" alt="GitHub Streak" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Sudhanshu-Ambastha&show_icons=true&langs_count=8&locale=en&layout=compact&theme=radical" alt="Top Languages" />
     </td>
     <td align="center">
       <img src="https://github-readme-stats.vercel.app/api?username=Sudhanshu-Ambastha&show_icons=true&theme=radical" alt="GitHub Stats" />
@@ -56,7 +56,6 @@ I'm a College school student with a passion for learning and coding. I'm constan
   </tr>
   <tr>
     <td colspan="2" align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Sudhanshu-Ambastha&show_icons=true&langs_count=8&locale=en&layout=compact&theme=radical" alt="Top Languages" />
     </td>
   </tr>
 </table>
