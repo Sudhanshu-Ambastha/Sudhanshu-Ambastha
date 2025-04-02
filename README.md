@@ -54,10 +54,6 @@ I'm a College school student with a passion for learning and coding. I'm constan
       <img src="https://leetcard.jacoblin.cool/sudhanshuambastha2020?theme=unicorn" alt="LeetCode Stats" />
     </td>
   </tr>
-  <tr>
-    <td colspan="2" align="center">
-    </td>
-  </tr>
 </table>
 
 #
