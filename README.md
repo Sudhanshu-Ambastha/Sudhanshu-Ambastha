@@ -62,7 +62,7 @@ I'm a College school student with a passion for learning and coding. I'm constan
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b" width="1000">
 <br><br>
 
-### Contact Me
+### <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60">Contact Me
 
 <p align="left">
 <a href="https://www.linkedin.com/in/sudhanshu-ambastha-8a0b332a4/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Linkedin" height="30" width="40" /></a>
