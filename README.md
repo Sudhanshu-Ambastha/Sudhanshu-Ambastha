@@ -3,12 +3,9 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffba08&size=35&center=true&font-family=&vCenter=true&width=1000&lines=Greetings,+World!+I'm+Sudhanshu+Ambastha;I'm+from+India;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
+Passionate developer focused on creative problem-solving, efficient tooling, and system architecture and writing clean, scalable code.
 
-I'm a College school student with a passion for learning and coding. I'm constantly exploring new programming languages and expanding my skills. 
-
-
-
-### <picture><img src = "https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width = 30px></picture> *Languages and Tools🧰*
+### <picture><img src = "./code.gif" width = 30px></picture> _Languages and Tools🧰_
 
 [![My Skills](https://go-skill-icons.vercel.app/api/icons?i=html,css,js,py,java,react,tailwind,scss,vite,nextjs,c,cpp,vscode,jupyter,googlecolab,anaconda,npm,nodejs,mongo,mysql,sqlite,express,bootstrap,git,github,githubpages,githubactions,vercel,netlify,render,streamlit,postman,ruby,fastapi,playwright,docker)](https://github.com/LelouchFR/skill-icons)
 
@@ -16,24 +13,24 @@ I'm a College school student with a passion for learning and coding. I'm constan
 
 #
 
-## <picture><img src = "Hacker.gif" width = 50px></picture> *About Me*
-<img src="https://user-images.githubusercontent.com/74038190/212750996-938b257b-266c-45a7-9af7-655341c0f58b.gif" width="200" align="right">
+## <picture><img src = "Hacker.gif" width = 50px></picture> _About Me_
 
+<img src="./working.gif" width="200" align="right">
 
-- 🎓 I'm a tech savvy, College student.
-- 💻 I have a strong interest in programming, and I'm always excited to learn and explore new programming languages and technologies.
-- 🧠 I'm passionate about problem-solving and creative thinking.
-- 📚 I believe in the power of technological education and self-improvement.
+- 🎓 Passionate student & software engineering enthusiast.
+- 💻 Deeply interested in core programming, compiler design, and building high-performance systems.
+- 🧠 Focused on algorithmic problem-solving and clean architecture.
+- 📚 Continuous learner exploring the boundaries of software development.
 
-#
+---
 
-<h3 align="left"><img src="https://media4.giphy.com/media/MIGbtLZoVjbl0bYbAd/giphy.gif?cid=ecf05e472t2h0i8d7dcjaoau9iqtchhr899hxmpxzzgc7lyw&rid=giphy.gif" width="30">Stats</h3>
+<h3 align="left"><img src="./stats.gif" width="30">Stats</h3>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Sudhanshu-Ambastha&theme=dracula&row=2&no-bg=true&column=8&margin-w=15&margin-h=15" />
 </p>
 
-[![Sudhanshu's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Sudhanshu-Ambastha&bg_color=121111&color=00ffe1&line=fa00d9&point=fff700&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Sudhanshu's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Sudhanshu-Ambastha&bg_color=121111&color=00ffe1&line=fa00d9&point=fff700&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph) - -->
 
 <table>
   <tr>
@@ -45,9 +42,9 @@ I'm a College school student with a passion for learning and coding. I'm constan
     </td>
   </tr>
   <tr>
-    <td align="center">
+    <!-- <td align="center">
       <img src="https://github-readme-stats.vercel.app/api?username=Sudhanshu-Ambastha&custom_title=Sudhanshu's%20GitHub%20statistics&show_icons=true&theme=shadow_green&rank_icon=percentile&include_all_commits=true&theme=transparent" alt="Custom GitHub Stats" />
-    </td>
+    </td> -->
     <td align="center">
       <img src="https://leetcard.jacoblin.cool/sudhanshuambastha2020?theme=unicorn" alt="LeetCode Stats" />
     </td>
@@ -78,7 +75,7 @@ I'm a College school student with a passion for learning and coding. I'm constan
 
 ### Fun Fact
 
-I believe that coding is like solving puzzles – challenging but incredibly rewarding once you crack it!
+I believe that system architecture is like solving intricate puzzles — challenging and deeply satisfying once every component snaps into place!
 
 Thanks for stopping by! 🚀
 
@@ -86,12 +83,11 @@ Thanks for stopping by! 🚀
   <p align="centre"><b>Visitors Count</b></p>  
   <a href="https://github.com/Sudhanshu-Ambastha"><img src="https://count.getloli.com/get/@:Rez4-4?theme=rule34" width="50%"/></a>
   <br>
-  <p align="center"><img align="center" src="https://profile-counter.glitch.me/{Sudhanshu-Ambastha}/count.svg" /></p> 
+  <!-- <p align="center"><img align="center" src="https://profile-counter.glitch.me/{Sudhanshu-Ambastha}/count.svg" /></p>  -->
   <br>
   <a href="https://info.flagcounter.com/8dx2"><img src="https://s01.flagcounter.com/count2/8dx2/bg_FFFFFF/txt_000000/border_CCCCCC/columns_8/maxflags_250/viewers_0/labels_1/pageviews_1/flags_0/percent_0/" alt="Flag Counter" border="0"></a>
 <!-- counting from 05/07/26 -->
 </div>
-
 
 <h1 align="center">Show some 💗 by 🌟 some of the repositories!</h1>
 
